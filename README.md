@@ -1,2 +1,2 @@
 # gitflow-practice
-First Line....
+First Line.
